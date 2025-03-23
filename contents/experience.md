@@ -4,7 +4,7 @@
 - Working on eco-informatics and ecological modeling
 
 
-### **MSc Student (joint training)**  
+### **Visiting Student (MSc joint training)**  
 **Oct 2021 - Jun 2024 | Institute of Atmospheric Physics, Chinese Academy of Sciences**  
 - Department: [Nansen-Zhu International Research Center](https://nzc.iap.ac.cn/)
 - Working on climate extremes and hydrometeorological disasters

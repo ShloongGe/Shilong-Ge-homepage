@@ -2,7 +2,7 @@
 
 ### About me
 
-Hello! My name is Shilong Ge. Currently, I work as a research assistant at the Institute of Geographic Sciences and Natural Resources Research, Chinese Academy of Sciences and **I am actively looking for a PhD opportunity**.
+Hello! My name is Shilong Ge. Currently, I work as a research assistant at Institute of Geographic Sciences and Natural Resources Research, Chinese Academy of Sciences and **I am actively looking for a PhD opportunity**.
 
 I graduated from Beijing Forestry University in 2024. My previous research focused on weather extremes and **hydrometeorological disasters in a changing climate**, including climate data evaluation, landslide risk assessment, and early-warning system development.
 
@@ -26,6 +26,6 @@ I graduated from Beijing Forestry University in 2024. My previous research focus
 
 ### What am I interested in? 
 
-During my study and research in climate science, **I found my interest in the cryosphere**, for it plays a key role in the earth system. What makes the Arctic amplification the most? How do the atmosphere, ocean, and ice interact? What does the thawing of the permafrost lead to?...... These questions are what I want to figure out.
+During my study and research in climate science, **I found my interest in the cryosphere**, for it plays a key role in the earth system. What contributes most to the Arctic amplification? How do the atmosphere, ocean, and ice interact? What does the thawing of the permafrost lead to?...... These questions are what I want to figure out.
 
 In the future, I would like to study the interaction between the climate system and the cryosphere, especially the potential physical processes, using various approaches (e.g., field-based investigation, numerical modeling, AI-based methods).
