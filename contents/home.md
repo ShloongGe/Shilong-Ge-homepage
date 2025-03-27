@@ -10,7 +10,7 @@ I graduated from Beijing Forestry University in 2024. My previous research focus
 ### Education
 
 **Beijing Forestry University**, Master of Science (2021-2024)<br>
-• Major: Ecoloy<br>
+• Major: Ecology<br>
 • Supervisor:<br>
 &ensp;[Dr. Jun Wang](https://nzc.iap.ac.cn/info?uid=MzA=), Institute of Atmospheric Physics, Chinese Academy of Sciences<br>
 &ensp;[Dr. Chao Jiang](https://styzrbh.bjfu.edu.cn/szdw/zrjs/qqbhstxfjs/a35a1dfd88994bad9c851bef51520f34.htm), School of Ecology and Nature Conservation, Beijing Forestry University
